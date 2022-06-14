@@ -1,0 +1,3 @@
+# Software config
+
+@author: kimtuthanh
